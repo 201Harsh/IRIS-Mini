@@ -63,7 +63,7 @@
     "@types/node": "^26.4.0",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.5",
-    "@vitejs/plugin-react": "^6.0.4",
+    "@vitejs/plugin-react": "^6.1.1",
     "nodemon": "^3.1.10",
     "tsx": "^4.23.12",
     "vite": "^8.2.2"
